@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"Random Pigeon's CIT item frame hider datapack is ","color":"aqua","bold":true,"type":"text"},{"text":"ON","color":"light_purple","bold":true,"type":"text"}]
+scoreboard objectives add GiveFrameBook trigger
